@@ -1,5 +1,5 @@
-#LVGL demonstration 
-####Raspberry Pi with official 7" screen
+# LVGL demonstration
+#### Raspberry Pi with official 7" screen
 ---
 Based on LVGL version 7.0.0
 
@@ -12,7 +12,7 @@ This repository is a working implementation of LVGL (Little and Versatile Embedd
 
 This implementation uses the linux frame buffer interface.
 ___
-###Building and running
+### Building and running
 Download the repository on your Pi and run ``make`` in the lvgl_demo directory.
 The code should compile without errors and you should end up with an excutable file named **demo** in the lvgl_demo directory.
 
